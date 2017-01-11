@@ -1,0 +1,9 @@
+C:\Users\local\Desktop\Nowy folder\WpfApplication6\WpfApplication6\bin\Debug\WpfApplication6.exe.config
+C:\Users\local\Desktop\Nowy folder\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Nowy folder\WpfApplication6\WpfApplication6\obj\Debug\MainWindow.baml
+C:\Users\local\Desktop\Nowy folder\WpfApplication6\WpfApplication6\obj\Debug\MainWindow.g.cs
+C:\Users\local\Desktop\Nowy folder\WpfApplication6\WpfApplication6\obj\Debug\App.g.cs
+C:\Users\local\Desktop\Nowy folder\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6_MarkupCompile.cache
+C:\Users\local\Desktop\Nowy folder\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.g.resources
+C:\Users\local\Desktop\Nowy folder\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.Properties.Resources.resources
+C:\Users\local\Desktop\Nowy folder\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.csproj.GenerateResource.Cache
